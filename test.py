@@ -1,2 +1,2 @@
-#this is a git test 
+#I want a conflict  
 #merge branches test 
