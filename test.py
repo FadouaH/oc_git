@@ -1,2 +1,2 @@
-#this is a new git test 
+#this is a git test 
 #merge branches test 
